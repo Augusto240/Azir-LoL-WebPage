@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(255, 236, 180);
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    margin: 20px;
+}
+
+.azir{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #3a3a3a;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(255, 236, 180);
+}
+
+h1{
+    color: rgb(221, 178, 24);
+    font-style: oblique;
+
+
+}
+
+h3{
+    color: rgb(152, 28, 28);
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-left: 90px;
+    padding-right: 90px;
+
+}
+
+a{
+    color: rgb(197, 18, 18);
+    font-family:  'Geneva', Verdana, sans-serif;
+
+}
+
+
+.lolzinho{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 90px;
+}
+
+.biografia{
+    text-align: center;
+    padding-top: 90px;
+}
+
+.aluno{
+    text-align: center;
+}
+
+.logo{
+    text-align: right;
+}
